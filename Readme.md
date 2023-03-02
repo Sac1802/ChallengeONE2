@@ -170,3 +170,4 @@ Los demas pasos son iguales a la de la divida pero aun asi voy a dejar el codigo
             }
         }
 ```
+![Texto Corto](imagenes/principal)
