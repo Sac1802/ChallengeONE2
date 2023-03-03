@@ -170,3 +170,8 @@ Los demas pasos son iguales a la de la divida pero aun asi voy a dejar el codigo
             }
         }
 ```
+![Texto Corto](https://github.com/Sac1802/ChallengeONE2/blob/main/imagenes/principal.png)
+![Texto Corto](https://github.com/Sac1802/ChallengeONE2/blob/main/imagenes/divisasOpciones.png)
+![Texto Corto](https://github.com/Sac1802/ChallengeONE2/blob/main/imagenes/divisaResultados.png)
+![Texto Corto](https://github.com/Sac1802/ChallengeONE2/blob/main/imagenes/temperaturaOpciones.png)
+![Texto Corto](https://github.com/Sac1802/ChallengeONE2/blob/main/imagenes/tenperaturaResultado.png)
